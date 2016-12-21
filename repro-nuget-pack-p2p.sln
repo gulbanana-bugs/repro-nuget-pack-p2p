@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26014.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netstdlib", "netstdlib\netstdlib.csproj", "{AAD11457-CDA0-4BA8-A86D-026675B50324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netfxlib", "netfxlib\netfxlib.csproj", "{F32E7102-AB1B-4CC2-9596-137675E82618}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{AAD11457-CDA0-4BA8-A86D-026675B50324}.Release|x64.Build.0 = Release|x64
 		{AAD11457-CDA0-4BA8-A86D-026675B50324}.Release|x86.ActiveCfg = Release|x86
 		{AAD11457-CDA0-4BA8-A86D-026675B50324}.Release|x86.Build.0 = Release|x86
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Debug|x64.Build.0 = Debug|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Debug|x86.Build.0 = Debug|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Release|x64.ActiveCfg = Release|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Release|x64.Build.0 = Release|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Release|x86.ActiveCfg = Release|Any CPU
+		{F32E7102-AB1B-4CC2-9596-137675E82618}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
